@@ -2,7 +2,6 @@
 
 A colorful, grid-based territory capture game with power-ups, built using Pygame!
 
-![Cute Territory Game](https://github.com/0xUsmanGhani/Territory-Game/blob/main/Demo.mp4)
 
 ## 🌟 Features
 
