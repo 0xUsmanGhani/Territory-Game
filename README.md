@@ -39,10 +39,10 @@ A colorful, grid-based territory capture game with power-ups, built using Pygame
 ### Setup
 ```bash
 # Clone this repository
-git clone https://github.com/yourusername/cute-territory-game.git
+git clone https://github.com/0xUsmanGhani/Territory-Game.git
 
 # Navigate to the project directory
-cd cute-territory-game
+cd Territory-Game
 
 # Install Pygame if you don't have it
 pip install pygame
